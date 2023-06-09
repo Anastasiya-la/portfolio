@@ -8,7 +8,9 @@ const Skills = () => {
     const skills = [
         {title: 'HTML', description: 'Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.'},
         {title: 'CSS', description: 'Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.'},
-        {title: 'JS', description: 'Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.'}
+        {title: 'JS', description: 'Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.'},
+        {title: 'React', description: 'Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.'},
+        {title: 'Redux', description: 'Lisque persius interesset his et, in quot quidam persequeris vim, ad mea essent possim iriure.'}
     ]
 
     return (
