@@ -6,7 +6,7 @@ import styleContainer from "../common/styles/Container.module.css";
 const Header = () => {
     return (
         <div className={style.header}>
-            <div className={`${styleContainer.container} ${style.headerContainer}`}>
+            <div className={`${style.headerContainer}  `}>
             <Nav/>
             </div>
         </div>
