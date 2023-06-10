@@ -13,7 +13,7 @@ const Footer = () => {
                 <div className={style.socialsContainer}>
                     {socials.map(s => <Social/>)}
                 </div>
-                <span className={style.rights}> ©2023 Все права защищены</span>
+                <span className={style.rights}> ©2023 All rights reserved</span>
 
             </div>
         </div>
